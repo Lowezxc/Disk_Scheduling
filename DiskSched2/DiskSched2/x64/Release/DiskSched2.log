@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  DiskSched2.vcxproj -> C:\Users\acuin\source\repos\DiskSched2\x64\Release\DiskSched2.exe

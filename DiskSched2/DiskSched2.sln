@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiskSched2", "DiskSched2\DiskSched2.vcxproj", "{1DE055C9-F459-400F-92CC-C26F91D87DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Debug|x64.ActiveCfg = Debug|x64
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Debug|x64.Build.0 = Debug|x64
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Debug|x86.Build.0 = Debug|Win32
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Release|x64.ActiveCfg = Release|x64
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Release|x64.Build.0 = Release|x64
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Release|x86.ActiveCfg = Release|Win32
+		{1DE055C9-F459-400F-92CC-C26F91D87DA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0884201-BA35-4F3A-AB77-3FECD860FC05}
+	EndGlobalSection
+EndGlobal
